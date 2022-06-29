@@ -8,16 +8,16 @@
 
 菁优网组卷详情界面（“当前位置：组卷中心 > 组卷详情”），例如：
 
-![组卷详情截图](https://codezhangborui.github.io/static/public/Github-Project/Jyeoo-Print-Processer/1.png)
+![组卷详情截图](https://codezhangborui.github.io/static/public/Github_Project/Jyeoo-Print-Processer/1.png)
 
 ## 如何使用
 
 点击组卷操作区内的【立即处理并打印】
 
-![【立即处理并打印】](https://codezhangborui.github.io/static/public/Github-Project/Jyeoo-Print-Processer/2.png)
+![【立即处理并打印】](https://codezhangborui.github.io/static/public/Github_Project/Jyeoo-Print-Processer/2.png)
 
 ## 脚本设置
 
 点击 Tempermonkey 图标，即可进行设置
 
-![脚本设置](https://codezhangborui.github.io/static/public/Github-Project/Jyeoo-Print-Processer/3.png)
+![脚本设置](https://codezhangborui.github.io/static/public/Github_Project/Jyeoo-Print-Processer/3.png)

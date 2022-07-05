@@ -5,7 +5,8 @@
 // @description  自动处理菁优个人组卷界面，使其能够直接打印
 // @author       CodeZhangBorui
 // @match        http://www.jyeoo.com/*/paper/detail/*
-// @icon         http://www.jyeoo.com/favicon.ico
+// @match        https://www.jyeoo.com/*/paper/detail/*
+// @icon         https://www.jyeoo.com/favicon.ico
 // @grant        GM_registerMenuCommand
 // @grant        GM_notification
 // @homepage     https://github.io/CodeZhangBorui/Jyeoo-Print-Processer

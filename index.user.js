@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         菁优打印处理程序
-// @version      0.5
+// @version      0.6
 // @namespace    https://codezhangborui.github.io
 // @description  自动处理菁优个人组卷界面，使其能够直接打印
 // @author       CodeZhangBorui
